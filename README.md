@@ -5,26 +5,26 @@ The project involved leveraging Power BI to analyze data extracted from Excel sh
 
 Key Steps:
 
-1) Data Loading:
+First Data Loading:
 
 Excel sheets containing e-commerce data were loaded into Power BI, ensuring all relevant datasets were included.
 
-2) Data Cleaning:
+Second Data Cleaning:
 
 Rigorous data cleaning processes were implemented to ensure accuracy and reliability of the data. This involved handling missing values, removing duplicates, standardizing formats, and resolving inconsistencies.
 
-3) Dashboard Creation:
+Third Dashboard Creation:
 
 1) A user-friendly dashboard was crafted using a combination of KPIs (Key Performance Indicators) and interactive charts.
 2) KPIs were strategically chosen to track critical metrics such as sales revenue, Average Ship Days, Sales QTY, No of Orders.
 3) Various charts, including line charts, bar charts, and pie charts, were employed to visualize trends, patterns, and correlations within the data.
 
-4) Insights Extraction:
+Fourth Insights Extraction:
 
 1) Through in-depth analysis, meaningful insights were extracted from the data.
 2) These insights encompassed aspects such as sales trends over time, the performance of different product categories, customer segmentation based on demographics or buying behavior, and the impact of marketing campaigns on sales.
 
-5) Communication to Stakeholders:
+Fifth Communication to Stakeholders:
 
 The insights derived were communicated effectively to both technical and non-technical stakeholders.
 For non-technical stakeholders, the findings were communicated in a clear and concise manner, using visualizations and plain language to convey the significance of the insights and their implications for decision-making.
