@@ -35,6 +35,10 @@ Benefits and Impact:
 2) By identifying trends, opportunities, and areas for improvement, the project contributed to enhancing business performance, optimizing marketing strategies, and improving customer satisfaction.
 3) The interactive dashboard serves as a powerful tool for ongoing monitoring and analysis, enabling stakeholders to stay informed and make timely adjustments as needed.
 
+DASHBOARD
+![Screenshot 2024-05-15 215908](https://github.com/akramkhn/E-commerce-Dashboard/assets/100274605/7aa11a5d-ac95-4f4d-b6dd-51717527cdac)
+
+
 Conclusion:
 
 In summary, this project demonstrates the transformative potential of leveraging Power BI for e-commerce data analysis. From data loading to insightful communication, each step was executed with precision and aimed at driving informed decision-making and business success.
